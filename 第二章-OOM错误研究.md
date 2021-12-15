@@ -57,3 +57,5 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 参考文献：
 
 - [MAT从入门到精通（二）](https://zhuanlan.zhihu.com/p/57347496)
+- [JVM系列三:JVM参数设置、分析](https://www.cnblogs.com/redcreen/archive/2011/05/04/2037057.html)
+
